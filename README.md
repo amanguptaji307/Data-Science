@@ -120,8 +120,3 @@ The models were evaluated using **Mean Absolute Percentage Error (MAPE)**, where
 - Gradient Boosting was the second-best performing model.
 - Linear Regression showed the highest prediction error, indicating that the relationship between housing features and prices is not purely linear.
 - Ensemble methods (Random Forest and Gradient Boosting) significantly outperformed traditional regression techniques.
-## 🚀 How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/amanguptaji307/house-price-prediction.git
